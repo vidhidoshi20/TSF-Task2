@@ -1,0 +1,2 @@
+# Coolor
+Color Pallete Generator
